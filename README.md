@@ -1,2 +1,2 @@
 # co-sylar
-a framwork which base on coroutine write by C++
+a network framwork which base on coroutine write by C++
